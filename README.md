@@ -1,4 +1,4 @@
-#♟️ Juego de Ajedrez en Java
+# ♟️ Juego de Ajedrez en Java
 
 Este es un proyecto desarrollado en Java que implementa el clásico juego de Ajedrez, con reglas completas y una interfaz para jugar partidas entre dos jugadores.
 
